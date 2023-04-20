@@ -37,6 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Publications
++ ***Yuan Xu***, Xinshuo Han, Gelei Deng, Jiwei Li, Yang Liu, Tianwei Zhang: SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View. **EuroS&P 2023**
 + ***Yuan Xu***, Tianwei Zhang, Yungang Bao: Analysis and Mitigation of Function Interaction Risks in Robot Apps. **RAID 2021**: 1-16
 + Gelei Deng, Yuan Zhou, **Yuan Xu**, Tianwei Zhang, Yang Liu: An Investigation of Byzantine Threats in Multi-Robot Systems. **RAID 2021**: 17-32
 + ***Yuan Xu***, Tianwei Zhang, Jimin Han, Sa Wang, Yungang Bao: Towards Practical Cloud Offloading for Low-cost Ground Vehicle Workloads. **IPDPS 2021**: 734-745
