@@ -8,7 +8,7 @@ minimal_mistakes_skin: "air"
 # Site Author
 author:
   name             : "XU YUAN"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
   location         : "Singapore"
   links:
@@ -21,6 +21,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/xyuan.ryan"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "xyneforest@gmail.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
