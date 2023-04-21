@@ -172,6 +172,11 @@ header .intro-text .skills {
     border: 0;
 }
 
+nav.blue {
+    color: #fff;
+    background: #233140;
+}
+
 section {
     padding: 100px 0;
 }
