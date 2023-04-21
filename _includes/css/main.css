@@ -185,6 +185,11 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.grey {
+    color: #fff;
+    background: rgba(234, 236, 238 , 0.3);
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
