@@ -152,7 +152,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background: #233140;
+    background-color: #233140
 }
 
 .navbar a:focus {
@@ -493,5 +493,5 @@ footer .footer-below {
 ul.space_list li { margin-bottom: 1em; }
 
 div.padding {
-    padding-top: 50px;
+    padding-top: 20px;
 }
