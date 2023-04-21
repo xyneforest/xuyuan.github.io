@@ -186,6 +186,7 @@ section.success {
 }
 
 div.grey {
+    color: #000;
     background: rgba(234, 236, 238 , 0.3);
 }
 
