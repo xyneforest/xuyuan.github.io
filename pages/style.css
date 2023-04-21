@@ -96,7 +96,7 @@ header {
 }
 
 header .container {
-    padding-top: 1000px;
+    padding-top: 100px;
     padding-bottom: 50px;
 }
 
@@ -499,3 +499,7 @@ footer .footer-below {
 
 
 ul.space_list li { margin-bottom: 1em; }
+
+div.padding {
+    padding-top: 100px;
+}
