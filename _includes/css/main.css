@@ -508,12 +508,12 @@ ul.space_list li { margin-bottom: 1em; }
     display: : -webkit-flex;
 }
 
-.pics3 .pic3_status3 li .status3-pic{
+.pics3 .pics3_status3 li .status3-pic{
     width: 100%;
     height: 100%;
 }
 
-.pics3 .pic3_status3 li{
+.pics3 .pics3_status3 li{
     width: 30%;
     height: 100%;
     text-align: center
