@@ -494,7 +494,10 @@ footer .footer-below {
 }
 
 
-ul.space_list li { margin-bottom: 1em; }
+ul.space_list li { 
+    margin-bottom: 1em; 
+}
+
 
 div.padding {
     padding-top: 50px;
