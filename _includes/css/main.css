@@ -511,11 +511,11 @@ ul.space_list li { margin-bottom: 1em; }
 .pics3 .pics3_status3 li .status3-pic{
     width: 100%;
     height: 100%;
-    margin-left: 20px;
 }
 
 .pics3 .pics3_status3 li{
     width: 30%;
     height: 100%;
-    text-align: center
+    text-align: center;
+    margin-left: 35px;
 }
