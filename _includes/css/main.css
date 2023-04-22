@@ -67,7 +67,7 @@ hr.star-grey {
 
 hr.star-grey:after {
     color: #{{ site.color.secondary }};
-    background-color: #d6dbdf;
+    background: rgba(214, 219, 223, 1);
 }
 
 hr.star-light {
