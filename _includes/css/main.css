@@ -67,7 +67,7 @@ hr.star-grey {
 
 hr.star-grey:after {
     color: #{{ site.color.secondary }};
-    background-color: LightGray;
+    background-color: #EAECEE;
 }
 
 hr.star-light {
@@ -199,7 +199,7 @@ section.success {
 
 section.grey {
     color: #000;
-    background-color: LightGray;
+    background-color: #EAECEE;
 }
 
 @media(max-width:767px) {
