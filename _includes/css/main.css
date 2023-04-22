@@ -520,8 +520,13 @@ ul.space_list li { margin-bottom: 1em; }
     text-align: center;
 }
 
-.line-grey {
-    border-bottom: 1px solid #ccc;
-    box-shadow: 0px 2px 2px #ccc;
-    margin-bottom: 20px;
+hr.grey {
+  border:none;
+  height: 20px;
+    width: 80%;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 1px solid #d6dbdf;
+    box-shadow: 0 10px 20px -20px #333;
+  margin: -50px auto 10px; 
 }
