@@ -505,7 +505,7 @@ ul.space_list li { margin-bottom: 1em; }
 
 .pics3 .pics3_status3{
     display: flex;
-    display: : -webkit-flex;
+    display: -webkit-flex;
 }
 
 .pics3 .pics3_status3 li .status3-pic{
