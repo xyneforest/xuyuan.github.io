@@ -519,3 +519,9 @@ ul.space_list li { margin-bottom: 1em; }
     height: 100%;
     text-align: center;
 }
+
+.line-grey {
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0px 2px 2px #ccc;
+    margin-bottom: 20px;
+}
