@@ -36,6 +36,7 @@ h6 {
     font-weight: 700;
 }
 
+hr.star-grey,
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -47,6 +48,7 @@ hr.star-primary {
     overflow: visible;
 }
 
+hr.star-grey:after,
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
@@ -56,6 +58,16 @@ hr.star-primary:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+}
+
+
+hr.star-grey {
+    border-color: #{{ site.color.secondary }};
+}
+
+hr.star-grey:after {
+    color: #{{ site.color.secondary }};
+    background: rgba(214, 219, 223, 0.3);
 }
 
 hr.star-light {
