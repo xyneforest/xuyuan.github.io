@@ -537,23 +537,3 @@ button.project{
     line-height: 1px;
     margin-right: 5px;
 }
-
-
-
-.btn-project {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: #FFFFFF;
-    text-decoration: none;
-    font-size: 16px;
-    border-radius: 5px;
-    border: 1px solid #007BFF;
-    cursor: pointer;
-    transition: background-color 0.3s, border-color 0.3s;
-}
-
-.btn-project:hover {
-    background-color: #0056B3;
-    border-color: #0056B3;
-}
