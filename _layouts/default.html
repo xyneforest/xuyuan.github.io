@@ -9,16 +9,7 @@
   {% include research.html %}
   {% include publications.html %}
   {% include portfolio_grid.html %}
-  <!-- {% include about.html %} -->
-
-  {% if site.contact == "static" %}
-  {% include contact_static.html %}
-  {% elsif site.contact == "disqus" %}
-  {% include contact_disqus.html %}
-  {% elsif site.contact == "none" %}
-  {% else %}
-  {% include contact.html %}
-  {% endif %}
+  {% include about.html %}
 
   {% include footer.html %}
   {% include modals.html %}
@@ -26,3 +17,11 @@
 </body>
 
 </html>
+
+  <!-- {% if site.contact == "static" %} -->
+  <!-- {% include contact_static.html %} -->
+  <!-- {% elsif site.contact == "disqus" %} -->
+  <!-- {% include contact_disqus.html %} -->
+  <!-- {% else %} -->
+  <!-- {% include contact.html %} -->
+  <!-- {% endif %} -->
